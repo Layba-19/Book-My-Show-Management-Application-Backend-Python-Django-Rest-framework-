@@ -1,0 +1,2 @@
+# Book-My-Show-Management-Application-Backend-Python-Django-Rest-framework-
+Designed and developed a BookMyShow-like backend using Django REST Framework with scalable APIs and modular architecture for movies, theaters, shows and bookings. Implemented concurrency and multithreading to prevent double booking, maintain real-time seat availability and ensure data consistency. Built booking payment processing ticket generation.
